@@ -1,5 +1,4 @@
-# C++
-🔁 Continuing my coding journey — switched from C to C++ to explore object-oriented programming and advanced problem-solving.
+
 # C++ Programming Journey 🚀
 
 After learning the fundamentals of **C**, I’m continuing my journey by switching to **C++** — exploring object-oriented programming and advanced problem-solving techniques.
